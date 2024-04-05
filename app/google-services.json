@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843715581505",
+    "project_id": "libraryexee",
+    "storage_bucket": "libraryexee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843715581505:android:64d4f01e4d94a26d7018c0",
+        "android_client_info": {
+          "package_name": "com.android.library_exe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFpOyWnbmRTmdr8_eonRPkxZBFIEjsT7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
